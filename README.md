@@ -1,2 +1,0 @@
-# Amazon-Landing-Page
-clone
