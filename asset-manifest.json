@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amazon/static/css/main.89d511cc.css",
-    "main.js": "/amazon/static/js/main.91925009.js",
-    "static/js/787.c075ba41.chunk.js": "/amazon/static/js/787.c075ba41.chunk.js",
-    "index.html": "/amazon/index.html",
-    "main.89d511cc.css.map": "/amazon/static/css/main.89d511cc.css.map",
-    "main.91925009.js.map": "/amazon/static/js/main.91925009.js.map",
-    "787.c075ba41.chunk.js.map": "/amazon/static/js/787.c075ba41.chunk.js.map"
+    "main.css": "/Amazon-Landing-Page/static/css/main.89d511cc.css",
+    "main.js": "/Amazon-Landing-Page/static/js/main.04a977ba.js",
+    "static/js/787.c075ba41.chunk.js": "/Amazon-Landing-Page/static/js/787.c075ba41.chunk.js",
+    "index.html": "/Amazon-Landing-Page/index.html",
+    "main.89d511cc.css.map": "/Amazon-Landing-Page/static/css/main.89d511cc.css.map",
+    "main.04a977ba.js.map": "/Amazon-Landing-Page/static/js/main.04a977ba.js.map",
+    "787.c075ba41.chunk.js.map": "/Amazon-Landing-Page/static/js/787.c075ba41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89d511cc.css",
-    "static/js/main.91925009.js"
+    "static/js/main.04a977ba.js"
   ]
 }
